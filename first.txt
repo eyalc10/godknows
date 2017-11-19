@@ -17,3 +17,8 @@ this is 1709 first draft
 
 This is some new changes for 1709.1.4
 1711 new release initiation 
+1712 new release initiation 
+1712 staff
+1712.1 staff
+1712.2 staff
+
