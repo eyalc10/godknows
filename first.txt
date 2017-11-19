@@ -4,3 +4,4 @@ this is 1709 first draft
 1709 has some changes as well 
 1709.1.0 - version is done , acceptance was passed by customer 
 1710.0.1 initiated 
+1710.0.2 - some changes 
