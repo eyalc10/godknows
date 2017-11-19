@@ -7,3 +7,12 @@ this is 1709 first draft
 1709.1.2 - latest release - RC
 1710.0.1 initiated 
 1710.0.2 - some changes 
+
+
+
+
+
+
+
+
+This is some new changes for 1709.1.4
