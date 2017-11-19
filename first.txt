@@ -4,3 +4,4 @@ this is 1709 first draft
 1709 has some changes as well 
 1709.1.0 - version is done , acceptance was passed by customer 
 1709.1.1 - some changes that were required during testing 
+1709.1.2 - latest release - RC
